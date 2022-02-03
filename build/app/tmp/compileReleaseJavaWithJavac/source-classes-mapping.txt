@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/cardoso/pokedex/BuildConfig.java
+ com.cardoso.pokedex.BuildConfig
